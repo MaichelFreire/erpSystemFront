@@ -1,4 +1,5 @@
-import { Permission } from "./permission";
+import { Permission } from "./Permission";
+
 
 export type Group = {
     id: number;
